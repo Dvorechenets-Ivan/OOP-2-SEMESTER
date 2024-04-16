@@ -1,0 +1,67 @@
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\MainWindow.g.cs
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\App.g.cs
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\Calculator2_MarkupCompile.cache
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\Calculator2_MarkupCompile.lref
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\MainWindow.baml
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\Calculator2.g.resources
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\Calculator2.Properties.Resources.resources
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.GenerateResource.cache
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\Calcularor.g.cs
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\Calcularor.baml
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\DublCalcuator.g.cs
+C:\Users\2022\Desktop\Курс№1\Visual\Calculator2\Calculator2\obj\Debug\DublCalcuator.baml
+D:\sell oop\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+D:\sell oop\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+D:\sell oop\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+D:\sell oop\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.AssemblyReference.cache
+D:\sell oop\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.SuggestedBindingRedirects.cache
+D:\sell oop\Calculator2\Calculator2\obj\Debug\MainWindow.g.cs
+D:\sell oop\Calculator2\Calculator2\obj\Debug\App.g.cs
+D:\sell oop\Calculator2\Calculator2\obj\Debug\Calculator2_MarkupCompile.cache
+D:\sell oop\Calculator2\Calculator2\obj\Debug\Calculator2_MarkupCompile.lref
+D:\sell oop\Calculator2\Calculator2\obj\Debug\MainWindow.baml
+D:\sell oop\Calculator2\Calculator2\obj\Debug\Calculator2.g.resources
+D:\sell oop\Calculator2\Calculator2\obj\Debug\Calculator2.Properties.Resources.resources
+D:\sell oop\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.GenerateResource.cache
+D:\sell oop\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+D:\sell oop\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+D:\sell oop\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
+C:\Users\2022\Desktop\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+C:\Users\2022\Desktop\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+C:\Users\2022\Desktop\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+C:\Users\2022\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022\Desktop\Calculator2\Calculator2\obj\Debug\MainWindow.g.cs
+C:\Users\2022\Desktop\Calculator2\Calculator2\obj\Debug\App.g.cs
+C:\Users\2022\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2_MarkupCompile.cache
+C:\Users\2022\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2_MarkupCompile.lref
+C:\Users\2022\Desktop\Calculator2\Calculator2\obj\Debug\MainWindow.baml
+C:\Users\2022\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.g.resources
+C:\Users\2022\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.Properties.Resources.resources
+C:\Users\2022\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.GenerateResource.cache
+C:\Users\2022\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+C:\Users\2022\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.AssemblyReference.cache
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\obj\Debug\MainWindow.g.cs
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\obj\Debug\App.g.cs
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2_MarkupCompile.cache
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2_MarkupCompile.lref
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\obj\Debug\MainWindow.baml
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.g.resources
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.Properties.Resources.resources
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.GenerateResource.cache
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+C:\Users\Fanera\Desktop\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
