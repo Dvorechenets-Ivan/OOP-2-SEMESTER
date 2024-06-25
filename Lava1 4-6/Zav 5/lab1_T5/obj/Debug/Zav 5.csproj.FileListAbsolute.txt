@@ -1,0 +1,10 @@
+C:\Users\2022\Desktop\Lab-main\Zav 5\lab1_T5\bin\Debug\lab1_T5.exe.config
+C:\Users\2022\Desktop\Lab-main\Zav 5\lab1_T5\bin\Debug\lab1_T5.exe
+C:\Users\2022\Desktop\Lab-main\Zav 5\lab1_T5\bin\Debug\lab1_T5.pdb
+C:\Users\2022\Desktop\Lab-main\Zav 5\lab1_T5\obj\Debug\Zav 5.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\Lab-main\Zav 5\lab1_T5\obj\Debug\lab1_T5.Form1.resources
+C:\Users\2022\Desktop\Lab-main\Zav 5\lab1_T5\obj\Debug\lab1_T5.Properties.Resources.resources
+C:\Users\2022\Desktop\Lab-main\Zav 5\lab1_T5\obj\Debug\Zav 5.csproj.GenerateResource.cache
+C:\Users\2022\Desktop\Lab-main\Zav 5\lab1_T5\obj\Debug\Zav 5.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\Lab-main\Zav 5\lab1_T5\obj\Debug\lab1_T5.exe
+C:\Users\2022\Desktop\Lab-main\Zav 5\lab1_T5\obj\Debug\lab1_T5.pdb
